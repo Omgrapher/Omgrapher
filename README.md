@@ -1,29 +1,31 @@
 ## Hi, I'm Marlon Ovalle 👋  
 
-### 🚀 About Me  
-I'm a passionate **programmer and tech enthusiast** with a strong interest in **data science**, **web development**, and **mathematics**. I love solving problems and continuously learning new concepts to enhance my skills.  
+### 👤 About Me  
+I'm a **Systems Engineering student** with a strong interest in **data science**, **web development**, and **software development**. I enjoy tackling challenges, improving my coding skills, and exploring new technologies.  
 
 - 🌱 Currently learning: **C# for web development**, **SQL optimization**, and **JAVA for POO**.
 - 💻 Interested in: Developing innovative software solutions and optimizing processes through technology. 
 - ⚡ Fun fact: I'm also a **photographer** in my free time and love capturing memorable moments!  
-
 ---
-### 🛠️ Skills  
+### 🛠️ Skills
+<h3 align="left">Programming Languages</h3>
 <div align="left">
+  <img src="https://skillicons.dev/icons?i=java,dotnet,js" alt="Programming Languages Icons" />
+</div>
 
-#### **Programming Languages**  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)  
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)   
+<h3 align="left">Web Development</h3>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap" alt="Web Development Icons" />
+</div>
 
-#### **Web Development**  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
+<h3 align="left">Database</h3>
+<div align="left">
+ <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlserver" />
+</div>
 
-#### **Tools**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+<h3 align="left">Tools & Platforms</h3>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=azure,github,git,vscode,visualstudio,docker" alt="Tools & Platforms Icons" />
 </div>
 ---
 
