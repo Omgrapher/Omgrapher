@@ -8,7 +8,7 @@ I'm a passionate **programmer and tech enthusiast** with a strong interest in **
 - ⚡ Fun fact: I'm also a **photographer** in my free time and love capturing memorable moments!  
 
 ---
-
+<div align="center">
 ### 🛠️ Skills  
 
 #### **Programming Languages**  
@@ -31,7 +31,7 @@ I'm a passionate **programmer and tech enthusiast** with a strong interest in **
 
 ![Marlon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Omgrapher&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Omgrapher&layout=compact&theme=radical)  
-
+</div>
 ---
 
 ### 📫 How to Reach Me  
