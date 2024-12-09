@@ -10,7 +10,7 @@ I'm a **Systems Engineering student** with a strong interest in **data science**
 ### 🛠️ Skills
 <h3 align="left">Programming Languages</h3>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java, C#,dotnet,js" alt="Programming Languages Icons" />
+  <img src="https://skillicons.dev/icons?i=java, CSHARP,dotnet,js" alt="Programming Languages Icons" />
 </div>
 
 <h3 align="left">Web Development</h3>
