@@ -33,7 +33,6 @@ I'm a **Systems Engineering student** with a strong interest in **data science**
 
 <div align="center">
   <div align="center">
-    <img width="390" src="https://github-readme-stats.vercel.app/api?username=Omgrapher&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true" alt="GitHub Stats" />
     <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omgrapher&hide=html&langs_count=8&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
   </div>
 </div>
