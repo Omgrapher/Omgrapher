@@ -10,17 +10,17 @@ I'm a **Systems Engineering student** with a strong interest in **data science**
 ### 🛠️ Skills
 <h3 align="left">Programming Languages</h3>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,dotnet,js" alt="Programming Languages Icons" />
+  <img src="https://skillicons.dev/icons?i=ts,dotnet,js" alt="Programming Languages Icons" />
 </div>
 
 <h3 align="left">Web Development</h3>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap" alt="Web Development Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,tailwind" alt="Web Development Icons" />
 </div>
 
 <h3 align="left">Database</h3>
 <div align="left">
- <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlserver" />
+ <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlserver,postgres" />
 </div>
 
 <h3 align="left">Tools & Platforms</h3>
@@ -41,7 +41,7 @@ I'm a **Systems Engineering student** with a strong interest in **data science**
 
 ### 📫 How to Reach Me  
 - **Email:** ovallemarlonf@gmail.com  
-- **GitHub:** [Omgrapher](https://github.com/Omgrapher)  
+- **Linkedln:** [Marlon Ovalle](https://www.linkedin.com/in/marlonovallef/)  
 
 ---
 
